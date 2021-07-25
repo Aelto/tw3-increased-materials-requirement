@@ -1,5 +1,5 @@
 ![banner](docs/banner.png)
-<div align="center"><a href="https://www.youtube.com/watch?v=S9fPDVx_Js0">Increased materials requirement<a/></div>
+<div align="center">Increased materials requirement</div>
 
 # Features
 A incredibly small mod that increases the amount of materials you have to spend when crafting. This includes swords and armors as well, which means that to improve your gear to the superior version, you will need two sets of the enhanced gear.
