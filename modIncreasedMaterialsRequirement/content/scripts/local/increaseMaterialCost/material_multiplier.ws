@@ -2,7 +2,11 @@ function MCM_getMaterialMultiplier(item_name: name, dm: CDefinitionsManagerAcces
   // MCMLOG("item name = " + item_name);
 
   // kaer morhen armor
-  if (item_name == 'Starting Armor') {
+  if (item_name == 'Starting Armor'
+   || item_name == 'Starting Gloves'
+   || item_name == 'Starting Pants'
+   || item_name == 'Starting Boots'
+   || item_name == 'Starting Armor 1') {
     return 1;
   }
 
