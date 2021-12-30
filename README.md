@@ -2,7 +2,7 @@
 <div align="center">Increased materials requirement</div>
 
 # Features
-A incredibly small mod that increases the amount of materials you have to spend when crafting. This includes swords and armors as well, which means that to improve your gear to the superior version, you will need two sets of the enhanced gear.
+An incredibly small mod that increases the amount of materials you have to spend when crafting. This includes swords and armors as well, which means that to improve your gear to the superior version, you will need two sets of the enhanced gear.
 
 Why, you're asking? It's a different approach to the economy "balancing" that mods often do. This mod is much simpler in its approach and design but it has a few advantanges:
 - You have to craft twice more, and so you spend more crowns on the process. Thus spending some of the huge pile of crowns you saved during your adventure.
