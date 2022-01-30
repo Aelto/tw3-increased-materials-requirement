@@ -64,7 +64,7 @@ class W3CraftingManager
 						if(dm.GetCustomNodeAttributeValueInt(ingredients.subNodes[k], 'quantity', tmpInt))
 							// modIncreaseMaterialCost - BEGIN
 							ing.quantity = tmpInt * MCM_getMaterialMultiplier(ing.itemName, dm);
-							// modIncreaseMaterialCost - BEGIN
+							// modIncreaseMaterialCost - END
 							
 						schem.ingredients.PushBack(ing);						
 					}
