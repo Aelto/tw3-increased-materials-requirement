@@ -6,6 +6,8 @@ function MCM_getMaterialMultiplier(item_name: name, dm: CDefinitionsManagerAcces
    || item_name == 'Starting Gloves'
    || item_name == 'Starting Pants'
    || item_name == 'Starting Boots'
+   || item_name == 'Long Steel Sword'
+   || item_name == 'Witcher Silver Sword'
    || item_name == 'Starting Armor 1'
    || item_name == 'Starting Armor 1'
    || item_name == 'Starting Pants 1'
